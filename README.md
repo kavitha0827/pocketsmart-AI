@@ -189,7 +189,7 @@ python -m uvicorn App.main:app --host 127.0.0.1 --port 8001
 Then open your browser and visit:
 
 ```text
-http://127.0.0.1:8001/
+http://127.0.0.1:8001
 ```
 
 ---
