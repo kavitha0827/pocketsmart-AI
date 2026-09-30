@@ -257,7 +257,7 @@ Possible future development areas include:
 
 ## 👨‍💻 Developer
 
-**M.K. Prabu**
+**Kavitha P**
 
 PocketSmart AI — AI-powered budget and recommendation assistant.
 
